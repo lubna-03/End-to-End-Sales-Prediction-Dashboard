@@ -32,4 +32,5 @@ streamlit run app.py
 text## Results
 - XGBoost MAE: ~891 (per-store)
 - Key drivers: Lag7 (past week sales), Promo, DayOfWeek
+
 - Helps stores optimize stock, staff & promotions
